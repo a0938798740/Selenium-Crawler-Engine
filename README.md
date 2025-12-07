@@ -3,7 +3,7 @@
 ## Overview
 This repository houses a custom-built **Selenium Wrapper Library** designed to abstract low-level browser automation details.
 It was developed to refactor and modularize legacy web scraping scripts,
-such as my [TPCrawler project](https://github.com/a0938798740/taipower-bill-crawler-demo)),
+such as my [TPCrawler project](https://github.com/a0938798740/taipower-bill-crawler-demo),
 and to improve maintainability and readability.
 
 *(Note: The full integration code utilizing this engine is currently in production use and cannot be open-sourced due to confidentiality agreements.)*
